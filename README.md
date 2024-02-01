@@ -22,6 +22,3 @@ O sistema também permite a exclusão de produtos e fornecedores. Ao selecionar 
 
 ## Conexão com o Banco de Dados
 
-O sistema se conecta a um banco de dados SQL Server para armazenar e recuperar dados. Utilizamos a biblioteca SqlConnection para gerenciar a conexão com o banco de dados e executar consultas SQL.
-
-Espero que isso ajude! Se você tiver mais perguntas, fique à vontade para perguntar. 😊
