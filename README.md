@@ -1,7 +1,3 @@
-Entendo que você gostaria de uma fonte maior para o texto. No entanto, o GitHub, onde o arquivo README.md será exibido, usa a linguagem de marcação Markdown, que não suporta diretamente o ajuste do tamanho da fonte.
-
-O Markdown permite que você use diferentes níveis de cabeçalhos para destacar partes do texto, mas não permite ajustar diretamente o tamanho da fonte. Aqui está um exemplo de como você pode usar cabeçalhos para destacar partes do texto:
-
 # Sistema de Gerenciamento de Produtos e Fornecedores
 
 Este sistema permite o gerenciamento eficiente de produtos e fornecedores. Ele foi desenvolvido em C# e utiliza um banco de dados SQL Server para armazenar e recuperar dados.
